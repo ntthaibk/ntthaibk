@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Thai Nguyen
 - 👀 I’m interested in Automation Testing
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on Building my first automation framework
 - 📫 How to reach me ntthaibk@gmail.com
 
 <!---
